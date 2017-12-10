@@ -31,7 +31,7 @@ Joost draw a sketch of the final app on the flipover, and then students took tur
 #### JavaScript: `map` `filter` `=>`
 All students write a little JSON-object for themselves. for example:
 
-```
+```js
 {
   "name": "Joost",
   "age": 34,             // Hierover mochten ze liegen :-)
@@ -50,9 +50,6 @@ All students write a little JSON-object for themselves. for example:
     }
   ]
 }
-
-
-
 ```
 
 you can build a small webapp. where they can send in the JSON. you can download all objects as an array. and than you can procces the array with `map`and `filter`. First you can filter out the invalid input, for example people who have put their age in a string, or people who have only filled in one town.
@@ -60,7 +57,31 @@ you can build a small webapp. where they can send in the JSON. you can download 
 ### JavaScript OOP: build a IMDB web scraper.
 start of by letting them all install Atom so they can have live screen sharing and editing. make sure everyone has atom pair installed: https://atom.io/packages/atom-pair
 
+```js
+class Actor{
+  constructor(name = ''){
 
+  }
+}
+```
 
+```js
+class Movie{
+  constructor(title ='', actors =[]){
+  this.title = title
+  this.actors = actors
+  this.finish = false
+  this.startDate = new Date()
+
+  }
+  addActor(actor){
+    if (actor instanceof Actor){
+      return this.actors.push(actor)
+    }
+  }
+}
+
+const Ocean11 = new Movie('Ocean11', [Clooney])
+```
 
 
