@@ -6,10 +6,10 @@ The main goal is to inspire other teachers and share information about how to gi
     + [Unique game](#any-module---energizer-unique-game-can-be-used-as-intro-getting-to-know-each-other)
     + [One lie two truths](#any-module---energizer-one-lie-two-truths-can-be-used-as-intro-getting-to-know-each-other)
 - Module specific tips
-    + CLI - Game: I go on holiday and I take with me(#cli---game-i-go-on-holiday-and-i-take-with-me)
-    + JavaScript: `map` `filter` `=>`(#javascript-map-filter-)
-    + JavaScript OOP: build a IMDB web scraper with real time code collaboration(#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
-    + React - drawing components(#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
+    + [CLI - Game: I go on holiday and I take with me](#cli---game-i-go-on-holiday-and-i-take-with-me)
+    + [JavaScript: `map` `filter` `=>`](#javascript-map-filter-)
+    + [JavaScript OOP: build a IMDB web scraper with real time code collaboration](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
+    + [React - drawing components](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
     
 
 ## Energizers:
