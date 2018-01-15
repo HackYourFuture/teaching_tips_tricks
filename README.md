@@ -2,10 +2,10 @@
 The main goal is to inspire other teachers and share information about how to give a fun class.
 
 ## Contents:
-- Energizers
+- Energizers:
     + [Unique game](#any-module---energizer-unique-game-can-be-used-as-intro-getting-to-know-each-other)
     + [One lie two truths](#any-module---energizer-one-lie-two-truths-can-be-used-as-intro-getting-to-know-each-other)
-- Module specific tips
+- Module specific tips:
     + [CLI - Game: I go on holiday and I take with me](#cli---game-i-go-on-holiday-and-i-take-with-me)
     + [JavaScript: `map` `filter` `=>`](#javascript-map-filter-)
     + [JavaScript OOP: build a IMDB web scraper with real time code collaboration](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
@@ -20,6 +20,9 @@ The main goal is to inspire other teachers and share information about how to gi
 
 #### Any module - Energizer: One lie two truths (can be used as intro 'getting to know each other')
 *By Mauro* Everyone stands up. Everyone tells three things about him or herself. Two out of three have to be true, one is a lie. The group has to guess which one of the three is a lie.
+
+
+## Module specific tips:
 
 #### CLI - Game: I go on holiday and I take with me
 *By Unmesh*, "I go on holiday and I take with me" with CLI commands from the week before. They have to repeat the commands said before them. add a new command and explain what it does. let the round continue twice otherwise the students that went first don't have to repeat all the commands.
