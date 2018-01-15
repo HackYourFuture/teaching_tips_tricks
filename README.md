@@ -19,7 +19,7 @@ The main goal is to inspire other teachers and share information about how to gi
 *By Daan* Everybody stands up, has to tell something about himself that is unique, if someone else in the group has the same unique thing the person who said it needs to sit down and does not participate in the game any more. The game is that whoever stands up last wins the game. To make the games shorter you can let the sitting down students still "participate" if they have something in common with one of the students that are still in the game they can still kick someone out of the game.
 
 #### Any module - Energizer: One lie two truths (can be used as intro 'getting to know each other')
-*By Maartje* Everyone stands up. Everyone tells three things about him or herself. Two out of three have to be true, one is a lie. The group has to guess which one of the three is a lie.
+*By Mauro* Everyone stands up. Everyone tells three things about him or herself. Two out of three have to be true, one is a lie. The group has to guess which one of the three is a lie.
 
 #### CLI - Game: I go on holiday and I take with me
 *By Unmesh*, "I go on holiday and I take with me" with CLI commands from the week before. They have to repeat the commands said before them. add a new command and explain what it does. let the round continue twice otherwise the students that went first don't have to repeat all the commands.
