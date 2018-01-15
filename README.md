@@ -16,13 +16,18 @@ The main goal is to inspire other teachers and share information about how to gi
 > the goal of energizers is to have a small break while seeing similarities between students. And have a quick laugh.
 
 ## Any module - Energizer: Unique game (can be used as intro 'getting to know each other')
-*By Daan* Everybody stands up, has to tell something about himself that is unique, if someone else in the group has the same unique thing the person who said it needs to sit down and does not participate in the game any more. The game is that whoever stands up last wins the game. To make the games shorter you can let the sitting down students still "participate" if they have something in common with one of the students that are still in the game they can still kick someone out of the game.
+*By Daan* 
+
+Everybody stands up, has to tell something about himself that is unique, if someone else in the group has the same unique thing the person who said it needs to sit down and does not participate in the game any more. The game is that whoever stands up last wins the game. To make the games shorter you can let the sitting down students still "participate" if they have something in common with one of the students that are still in the game they can still kick someone out of the game.
 
 ## Any module - Energizer: One lie two truths (can be used as intro 'getting to know each other')
-*By Mauro* Everyone stands up. Everyone tells three things about him or herself. Two out of three have to be true, one is a lie. The group has to guess which one of the three is a lie.
+*By Mauro* 
+
+Everyone stands up. Everyone tells three things about him or herself. Two out of three have to be true, one is a lie. The group has to guess which one of the three is a lie.
 
 
 # Module specific tips:
+> These tips can of course be used in multiple modules, they are more about different ways you can interact with your class and make your students involved and participate. 
 
 ## CLI - Game: I go on holiday and I take with me
 *By Unmesh*, 
