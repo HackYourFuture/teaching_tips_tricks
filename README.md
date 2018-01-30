@@ -34,6 +34,18 @@ Everyone stands up. Everyone tells three things about him or herself. Two out of
 
 "I go on holiday and I take with me" with CLI commands from the week before. They have to repeat the commands said before them. add a new command and explain what it does. let the round continue twice otherwise the students that went first don't have to repeat all the commands.
 
+## GIT - OS concepts and Live coding
+*By [@unmeshvrije](https://github.com/unmeshvrije)*
+
+* The teacher should explain the file system if they have no idea about it.
+* Students often get warning about new lines (CR and LF characters) because they create UNIX-like files on their Windows machines. In this case, teacher should explain the different between interpretation of new lines in UNIX and Windows.
+* To keep the students' attention, create files with funny names and ask students for the contents of files and commit messages.
+* For lesson 1, every student along with the teacher, creates a repository **MyFirst** in his/her GitHub accounts.
+Together, they create an SSH key, configure email and username.
+It is important to make sure **at every step** that no student is lagging behind. It is easy to lose motivation for a student who is lagging behind the class.
+* For lesson 2, following online tool is very helpful: http://git-school.github.io/visualizing-git/
+* For lesson 3, students often clone the repository of teacher. Teachers should stress that they should clone the repository which they forked.
+
 ## JavaScript: `map` `filter` `=>`
 *By [@joostlubach](https://github.com/joostlubach)* 
 
@@ -59,6 +71,7 @@ All students write a little JSON-object for themselves. for example:
   ]
 }
 ```
+
 
 you can build a small webapp. where they can send in the JSON. you can download all objects as an array. and than you can procces the array with `map`and `filter`. First you can filter out the invalid input, for example people who have put their age in a string, or people who have only filled in one town.
 
