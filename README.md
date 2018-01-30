@@ -7,6 +7,7 @@ The main goal is to inspire other teachers and share information about how to gi
     + [One lie two truths](#any-module---energizer-one-lie-two-truths-can-be-used-as-intro-getting-to-know-each-other)
 - Module specific tips:
     + [CLI - Game: I go on holiday and I take with me](#cli---game-i-go-on-holiday-and-i-take-with-me)
+    + [GIT - OS concepts and Live coding](#git---os-concepts-and-live-coding)
     + [JavaScript: `map` `filter` `=>`](#javascript-map-filter-)
     + [JavaScript OOP: build a IMDB web scraper with real time code collaboration](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
     + [React - drawing components](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
@@ -30,9 +31,21 @@ Everyone stands up. Everyone tells three things about him or herself. Two out of
 > These tips can of course be used in multiple modules, they are more about different ways you can interact with your class and make your students involved and participate. 
 
 ## CLI - Game: I go on holiday and I take with me
-*By [@unmeshvrije](https://github.com/unmeshvrije)*, 
+*By [@unmeshvrije](https://github.com/unmeshvrije)*
 
 "I go on holiday and I take with me" with CLI commands from the week before. They have to repeat the commands said before them. add a new command and explain what it does. let the round continue twice otherwise the students that went first don't have to repeat all the commands.
+
+## GIT - OS concepts and Live coding
+*By [@unmeshvrije](https://github.com/unmeshvrije)*
+
+* The teacher should explain the file system if they have no idea about it.
+* Students often get warning about new lines (CR and LF characters) because they create UNIX-like files on their Windows machines. In this case, teacher should explain the different between interpretation of new lines in UNIX and Windows.
+* To keep the students' attention, create files with funny names and ask students for the contents of files and commit messages.
+* For lesson 1, every student along with the teacher, creates a repository **MyFirst** in his/her GitHub accounts.
+Together, they create an SSH key, configure email and username.
+It is important to make sure **at every step** that no student is lagging behind. It is easy to lose motivation for a student who is lagging behind the class.
+* For lesson 2, following online tool is very helpful: http://git-school.github.io/visualizing-git/
+* For lesson 3, students often clone the repository of teacher. Teachers should stress that they should clone the repository which they forked.
 
 ## JavaScript: `map` `filter` `=>`
 *By [@joostlubach](https://github.com/joostlubach)* 
