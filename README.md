@@ -11,7 +11,7 @@ The main goal is to inspire other teachers and share information about how to gi
     + [JavaScript: `map` `filter` `=>`](#javascript-map-filter-)
     + [JavaScript OOP: build a IMDB web scraper with real time code collaboration](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
     + [React - drawing components](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
-    + [Javascript callstack and eventloop visualisation](#javascript-callstack-and-evenloop-visualisation)
+    + [Javascript callstack and eventloop visualisation](#javascript-callstack-and-eventloop-visualisation)
     + [Javascript array remembering trick](#javascript-array-remembering-trick)
     + [Javascript apis](#javascript-apis)
     
@@ -120,16 +120,17 @@ Draw a sketch of the final app on the flipover, and then students took turns in 
 
 
 ## Javascript callstack and eventloop visualisation
-*By [@benna100](https://github.com/benna100)
+*By [@benna100](https://github.com/benna100)* 
 [http://latentflip.com/loupe/](http://latentflip.com/loupe/) is the perfect tool for visualizing the call stack and event loop. You can as of right now only write es5 javascript, but apart from that there is no limit. 
 
 
 ## Javascript array remembering trick
-*By [@benna100](https://github.com/benna100)
+*By [@benna100](https://github.com/benna100)* 
 Pop, push, unshift and shift which does what. Well the longest of the word pairs (pop, push) (shift, unshift) makes the array longer, really easy to remember that way.
 
 
 ## Javascript apis
+*By [@benna100](https://github.com/benna100)* 
 We have had some fun using these apis:
 * The giphy api: [https://developers.giphy.com/docs/#operation--gifs-search-get](https://developers.giphy.com/docs/#operation--gifs-search-get)
 * How many people are in space: http://open-notify.org/Open-Notify-API/People-In-Space/
