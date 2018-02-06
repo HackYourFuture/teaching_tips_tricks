@@ -11,6 +11,9 @@ The main goal is to inspire other teachers and share information about how to gi
     + [JavaScript: `map` `filter` `=>`](#javascript-map-filter-)
     + [JavaScript OOP: build a IMDB web scraper with real time code collaboration](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
     + [React - drawing components](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
+    + [Javascript callstack and eventloop visualisation](#javascript-callstack-and-evenloop-visualisation)
+    + [Javascript array remembering trick](#javascript-array-remembering-trick)
+    + [Javascript apis](#javascript-apis)
     
 
 # Energizers:
@@ -114,3 +117,20 @@ const Ocean11 = new Movie('Ocean11', [Clooney])
 *By [@joostlubach](https://github.com/joostlubach) and [@spirosikmd](https://github.com/spirosikmd)* 
 
 Draw a sketch of the final app on the flipover, and then students took turns in taking a colour pen drawing boxes around what they considered a component. When we were done with that, we draw a component tree hierarchy. This helped a lot when explaining the input (props) and output (prop handlers) of each component with arrows. Also helped a lot with explaining the data flow between components. What we found handy is that one of us was working with the computer, writing code, explaining the concepts by building an example app, while the other was drawing on the flipover explaining mostly the design decisions we made during the class.
+
+
+## Javascript callstack and eventloop visualisation
+*By [@benna100](https://github.com/benna100)
+[http://latentflip.com/loupe/](http://latentflip.com/loupe/) is the perfect tool for visualizing the call stack and event loop. You can as of right now only write es5 javascript, but apart from that there is no limit. 
+
+
+## Javascript array remembering trick
+*By [@benna100](https://github.com/benna100)
+Pop, push, unshift and shift which does what. Well the longest of the word pairs (pop, push) (shift, unshift) makes the array longer, really easy to remember that way.
+
+
+## Javascript apis
+We have had some fun using these apis:
+* The giphy api: [https://developers.giphy.com/docs/#operation--gifs-search-get](https://developers.giphy.com/docs/#operation--gifs-search-get)
+* How many people are in space: http://open-notify.org/Open-Notify-API/People-In-Space/
+* Space X launches: https://api.spacexdata.com/v2/launches
