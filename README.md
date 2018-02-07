@@ -8,12 +8,13 @@ The main goal is to inspire other teachers and share information about how to gi
 - Module specific tips:
     + [CLI - Game: I go on holiday and I take with me](#cli---game-i-go-on-holiday-and-i-take-with-me)
     + [GIT - OS concepts and Live coding](#git---os-concepts-and-live-coding)
+    + [Javascript array remembering trick](#javascript-array-remembering-trick)
     + [JavaScript: `map` `filter` `=>`](#javascript-map-filter-)
+    + [Javascript callstack and eventloop visualisation](#javascript-callstack-and-eventloop-visualisation)
+    + [Javascript apis](#javascript-apis)
     + [JavaScript OOP: build a IMDB web scraper with real time code collaboration](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
     + [React - drawing components](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
-    + [Javascript callstack and eventloop visualisation](#javascript-callstack-and-eventloop-visualisation)
-    + [Javascript array remembering trick](#javascript-array-remembering-trick)
-    + [Javascript apis](#javascript-apis)
+    
     
 
 # Energizers:
@@ -50,6 +51,11 @@ It is important to make sure **at every step** that no student is lagging behind
 * For lesson 2, following online tool is very helpful: http://git-school.github.io/visualizing-git/
 * For lesson 3, students often clone the repository of teacher. Teachers should stress that they should clone the repository which they forked.
 
+## Javascript array remembering trick
+*By [@benna100](https://github.com/benna100)* 
+
+Pop, push, unshift and shift which does what. Well the longest of the word pairs (pop, push) (shift, unshift) makes the array longer, really easy to remember that way.
+
 ## JavaScript: `map` `filter` `=>`
 *By [@joostlubach](https://github.com/joostlubach)* 
 
@@ -76,7 +82,20 @@ All students write a little JSON-object for themselves. for example:
 }
 ```
 
+## Javascript callstack and eventloop visualisation
+*By [@benna100](https://github.com/benna100)* 
+
+[http://latentflip.com/loupe/](http://latentflip.com/loupe/) is the perfect tool for visualizing the call stack and event loop. You can as of right now only write es5 javascript, but apart from that there is no limit. 
+
 you can build a small webapp. where they can send in the JSON. you can download all objects as an array. and than you can procces the array with `map`and `filter`. First you can filter out the invalid input, for example people who have put their age in a string, or people who have only filled in one town.
+
+## Javascript apis
+*By [@benna100](https://github.com/benna100)* 
+
+We have had some fun using these apis:
+* The giphy api: [https://developers.giphy.com/docs/#operation--gifs-search-get](https://developers.giphy.com/docs/#operation--gifs-search-get)
+* How many people are in space: http://open-notify.org/Open-Notify-API/People-In-Space/
+* Space X launches: https://api.spacexdata.com/v2/launches
 
 ## JavaScript OOP: build a IMDB web scraper with real time code collaboration
 *By [@M3kH](https://github.com/M3kH)* 
@@ -117,24 +136,3 @@ const Ocean11 = new Movie('Ocean11', [Clooney])
 *By [@joostlubach](https://github.com/joostlubach) and [@spirosikmd](https://github.com/spirosikmd)* 
 
 Draw a sketch of the final app on the flipover, and then students took turns in taking a colour pen drawing boxes around what they considered a component. When we were done with that, we draw a component tree hierarchy. This helped a lot when explaining the input (props) and output (prop handlers) of each component with arrows. Also helped a lot with explaining the data flow between components. What we found handy is that one of us was working with the computer, writing code, explaining the concepts by building an example app, while the other was drawing on the flipover explaining mostly the design decisions we made during the class.
-
-
-## Javascript callstack and eventloop visualisation
-*By [@benna100](https://github.com/benna100)* 
-
-[http://latentflip.com/loupe/](http://latentflip.com/loupe/) is the perfect tool for visualizing the call stack and event loop. You can as of right now only write es5 javascript, but apart from that there is no limit. 
-
-
-## Javascript array remembering trick
-*By [@benna100](https://github.com/benna100)* 
-
-Pop, push, unshift and shift which does what. Well the longest of the word pairs (pop, push) (shift, unshift) makes the array longer, really easy to remember that way.
-
-
-## Javascript apis
-*By [@benna100](https://github.com/benna100)* 
-
-We have had some fun using these apis:
-* The giphy api: [https://developers.giphy.com/docs/#operation--gifs-search-get](https://developers.giphy.com/docs/#operation--gifs-search-get)
-* How many people are in space: http://open-notify.org/Open-Notify-API/People-In-Space/
-* Space X launches: https://api.spacexdata.com/v2/launches
