@@ -2,6 +2,9 @@
 The main goal is to inspire other teachers and share information about how to give a fun class.
 
 ## Contents:
+- General Teaching Techniques
+    - [Live Coding](#live-coding)
+    - [Other Teaching Tools](#other-teaching-tools)
 - Energizers:
     + [Unique game](#any-module---energizer-unique-game-can-be-used-as-intro-getting-to-know-each-other)
     + [One lie two truths](#any-module---energizer-one-lie-two-truths-can-be-used-as-intro-getting-to-know-each-other)
@@ -14,8 +17,57 @@ The main goal is to inspire other teachers and share information about how to gi
     + [Javascript apis](#javascript-apis)
     + [JavaScript OOP: build a IMDB web scraper with real time code collaboration](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
     + [React - drawing components](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
-    
-    
+
+
+
+
+# General Teaching Techniques
+
+## Live Coding
+
+by [@ChrisOwen101](https://github.com/ChrisOwen101)
+
+A preferred teaching technique is Live coding and it involves walking through each line of code and physically writing each line to show how the code is written.
+
+Particularly good for new students as it’s good to see in practice how the code is written and it takes away some of the "Code Scare" effect when writing code for the first time.
+
+This is really good when you involve the students in the process by acting as the “hands” and they are the “brain” telling you what to type. This reduces syntax errors when you want to move quickly and cover broad concepts in the lessons.
+
+## Other Teaching Tools
+
+### Presentations 
+
+by [@ChrisOwen101](https://github.com/ChrisOwen101)
+
+Often it is nice to have an outline of your lesson in a presentation as it gives the lesson some format. It’s usually best to not rely on it to much though and to use lots of different teaching methods!
+
+### Research Exercises
+
+by [@ChrisOwen101](https://github.com/ChrisOwen101)
+
+Give the students a topic they should research in teams for 10-15 minutes. When the students have completed the research topic they report their findings to the class and share what they have learnt.
+
+### Videos
+
+by [@PGorvitzSH](https://github.com/PGorvitzSH)
+
+Videos are good to break up the lesson and to refocus the students. Never use a video that is longer than five minutes long and try to avoid ones that are just somebody talking over code, you can do that yourself!
+
+It's often good to turn on subtitles in the videos so that students can match up the spelling of words to the pronunciation which can be good for non-native English speakers.
+
+### Collaborative Coding
+
+by [@PGorvitzSH](https://github.com/PGorvitzSH)
+
+Using a website such as [SyncFiddle](www.syncfiddle.com) to have the students work together on a piece of work can be a fun way to break down the barrier between student and teacher. Simply set up a shared workspace on the SyncFiddle website and then send the students to it on Slack. From here you can all work collaboratively on a single piece of code. 
+
+### CodePen Tasks 
+
+By [@kostasx](https://github.com/kostasx) and [@KPouianou](https://github.com/KPouianou)
+
+Constructing a small task on CodePen and distributing to the students to complete during the lesson can be a good way to reinforce what the students have just learnt in a lecture.
+
+See an example for While and For loops here: [CodePen Exercise](https://codepen.io/KPouianou/pen/VQLaVo?editors=0010)
 
 # Energizers:
 > the goal of energizers is to have a small break while seeing similarities between students. And have a quick laugh.
@@ -46,8 +98,8 @@ Everyone stands up. Everyone tells three things about him or herself. Two out of
 * Students often get warning about new lines (CR and LF characters) because they create UNIX-like files on their Windows machines. In this case, teacher should explain the different between interpretation of new lines in UNIX and Windows.
 * To keep the students' attention, create files with funny names and ask students for the contents of files and commit messages.
 * For lesson 1, every student along with the teacher, creates a repository **MyFirst** in his/her GitHub accounts.
-Together, they create an SSH key, configure email and username.
-It is important to make sure **at every step** that no student is lagging behind. It is easy to lose motivation for a student who is lagging behind the class.
+  Together, they create an SSH key, configure email and username.
+  It is important to make sure **at every step** that no student is lagging behind. It is easy to lose motivation for a student who is lagging behind the class.
 * For lesson 2, following online tool is very helpful: http://git-school.github.io/visualizing-git/
 * For lesson 3, students often clone the repository of teacher. Teachers should stress that they should clone the repository which they forked.
 
