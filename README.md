@@ -3,8 +3,8 @@ The main goal is to inspire other teachers and share information about how to gi
 
 ## Contents:
 - General Teaching Techniques
-    - Live Coding
-    - Other Teaching Techniques
+    - [Live Coding](#live-coding)
+    - [Other Teaching Tools](#other-teaching-tools)
 - Energizers:
     + [Unique game](#any-module---energizer-unique-game-can-be-used-as-intro-getting-to-know-each-other)
     + [One lie two truths](#any-module---energizer-one-lie-two-truths-can-be-used-as-intro-getting-to-know-each-other)
@@ -25,7 +25,9 @@ The main goal is to inspire other teachers and share information about how to gi
 
 ## Live Coding
 
-Our preferred teaching technique is Live coding and it involves walking through each line of code and physically writing each line to show how the code is written.
+by [@ChrisOwen101](https://github.com/ChrisOwen101)
+
+A preferred teaching technique is Live coding and it involves walking through each line of code and physically writing each line to show how the code is written.
 
 Particularly good for new students as it’s good to see in practice how the code is written and it takes away some of the "Code Scare" effect when writing code for the first time.
 
@@ -37,9 +39,13 @@ Presentations Often it is nice to have an outline of your lesson in a presentati
 
 ### Research Exercises
 
+by [@ChrisOwen101](https://github.com/ChrisOwen101)
+
 Give the students a topic they should research in teams for 10-15 minutes. When the students have completed the research topic they report their findings to the class and share what they have learnt.
 
 ### Videos
+
+by [@PGorvitzSH](https://github.com/PGorvitzSH)
 
 Videos are good to break up the lesson and to refocus the students. Never use a video that is longer than five minutes long and try to avoid ones that are just somebody talking over code, you can do that yourself!
 
@@ -47,9 +53,13 @@ It's often good to turn on subtitles in the videos so that students can match up
 
 ### Collaborative Coding
 
+by [@PGorvitzSH](https://github.com/PGorvitzSH)
+
 Using a website such as [SyncFiddle](www.syncfiddle.com) to have the students work together on a piece of work can be a fun way to break down the barrier between student and teacher. Simply set up a shared workspace on the SyncFiddle website and then send the students to it on Slack. From here you can all work collaboratively on a single piece of code. 
 
-### CodePen Tasks
+### CodePen Tasks 
+
+By [@kostasx](https://github.com/kostasx) and [@KPouianou](https://github.com/KPouianou)
 
 Constructing a small task on CodePen and distributing to the students to complete during the lesson can be a good way to reinforce what the students have just learnt in a lecture.
 
