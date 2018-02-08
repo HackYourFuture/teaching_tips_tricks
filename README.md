@@ -35,7 +35,11 @@ This is really good when you involve the students in the process by acting as th
 
 ## Other Teaching Tools
 
-Presentations Often it is nice to have an outline of your lesson in a presentation as it gives the lesson some format. It’s usually best to not rely on it to much though and to use lots of different teaching methods!
+### Presentations 
+
+by [@ChrisOwen101](https://github.com/ChrisOwen101)
+
+Often it is nice to have an outline of your lesson in a presentation as it gives the lesson some format. It’s usually best to not rely on it to much though and to use lots of different teaching methods!
 
 ### Research Exercises
 
