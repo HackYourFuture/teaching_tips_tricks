@@ -18,9 +18,6 @@ The main goal is to inspire other teachers and share information about how to gi
     + [JavaScript OOP: build a IMDB web scraper with real time code collaboration](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
     + [React - drawing components](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
 
-
-
-
 # General Teaching Techniques
 
 ## Live Coding
@@ -183,6 +180,35 @@ class Movie{
 
 const Ocean11 = new Movie('Ocean11', [Clooney])
 ```
+
+## Javascript Promises: Learn how to use promises by cooking pasta 🍝
+*By [@razpudding](https://github.com/Razpudding)*
+
+> Async can be hard to understand without real live example. Cooking is a great example of mixed synchronous and asynchronous tasks. In this assignment we'll cook pasta with promises 💍
+
+Let's say we want a programme to cook some pasta. Some of the steps involved in cooking pasta are:
+1. Gathering the ingredients (pasta, garlic, tomatoes, sage, butter)
+2. Cutting the garlic
+3. Cutting the tomatoes
+4. Cooking the water
+5. Cooking the pasta
+6. Baking the garlic
+7. Baking the tomatoes
+X. Mixing the pasta with sauce
+
+If we do this synchronolously there is no chance of it becoming a good meal because the pasta would be cold by the time the vegetables are ready. It would also take way too long this way. So let's fix that!
+1. Think about how to do this asynchronously; which tasks could be run at the same time? What steps should wait for what other steps? Try to write down a basic recipe (don't write any code yet!)
+2. Now convert your recipe to pseudocode (in markdown). The point is to name functions and show which functions call which other functions. The logic should be there but we'll write the code in the next step.
+3. Write the actual code using promises. Add timeouts to each task (estimate how many minutes a task would take and then set the timeout to that many seconds so 8 minutes for cooking pasta would be 8 seconds in your programme)
+4. Can you get the code to work like you would cook pasta in the kitchen? Try using Promise.all if you want to wait for several tasks to finish.
+
+<!--- Here is my own attempt at completing the exercise. It's actually pretty tough to get the whole thing working with proises so maybe see how far students can get. https://codepen.io/Razpudding/pen/Keygge --->
+
+> Async await really helps simplify asynchronous (promisified) code. The previous example can be improved by applying it.
+
+5. Try rewriting your previous attempt using Async/Await. ⏰🍝⏰
+
+<!--- Here is my solution. It's a lot cleaner than the pomises version but could still use some work. Would also be nice if the changes were reflected in the DOM. https://codepen.io/Razpudding/pen/RJZeJO --->
 
 ## React - drawing components
 *By [@joostlubach](https://github.com/joostlubach) and [@spirosikmd](https://github.com/spirosikmd)* 
