@@ -16,7 +16,7 @@ The main goal is to inspire other teachers and share information about how to gi
     + [Javascript callstack and eventloop visualisation](#javascript-callstack-and-eventloop-visualisation)
     + [Javascript apis](#javascript-apis)
     + [JavaScript OOP: build a IMDB web scraper with real time code collaboration](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
-    + [Javascript Promises: Learn how to use promises by cooking pasta 🍝](#javascript-promises-learn-how-to-use-promises-by-cooking-pasta-🍝)
+    + [Javascript Promises: Learn how to use promises by cooking pasta 🍝](#javascript-promises-learn-how-to-use-promises-by-cooking-pasta)
     + [React - drawing components](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
 
 # General Teaching Techniques
@@ -182,7 +182,7 @@ class Movie{
 const Ocean11 = new Movie('Ocean11', [Clooney])
 ```
 
-## Javascript Promises: Learn how to use promises by cooking pasta 🍝
+## Javascript Promises: Learn how to use promises by cooking pasta
 *By [@razpudding](https://github.com/Razpudding)*
 
 > Async can be hard to understand without real live example. Cooking is a great example of mixed synchronous and asynchronous tasks. In this assignment we'll cook pasta with promises 💍
