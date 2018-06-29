@@ -211,6 +211,16 @@ If we do this synchronolously there is no chance of it becoming a good meal beca
 
 <!--- Here is my solution. It's a lot cleaner than the pomises version but could still use some work. Would also be nice if the changes were reflected in the DOM. https://codepen.io/Razpudding/pen/RJZeJO --->
 
+## RobotApp
+
+*By [@remarcmij](https://github.com/remarcmij)*
+
+The project in [RobotApp repository](https://github.com/HackYourFuture/RobotApp) (mirror at: http://roverjs.taalmap.nl/) was inspired by the [RoverJS](http://roverjs.com/) app developed by @joostlubach.
+
+The objective of the project is to write a (plain vanilla) JavaScript single page application that rebuilds the RoverJS game board and adds ways to direct the robot towards the flag, using buttons or commands rather than through user-provided JavaScript functions. This is done step-wise through eight different, progressively more advanced versions of the application.
+
+This project was originally intended for use throughout the JavaScript 1, 2 and 3 modules but soon proved to be far too ambitious, as it attempts to introduce ES6 Classes, the MVC pattern and the Observer pattern in the more advanced versions of the application. Still, the repo may be of interest to JavaScript 3 students who have played with the real RoverJS game and want to know more about how some of its aspects could be implemented.
+
 ## React - drawing components
 *By [@joostlubach](https://github.com/joostlubach) and [@spirosikmd](https://github.com/spirosikmd)* 
 
