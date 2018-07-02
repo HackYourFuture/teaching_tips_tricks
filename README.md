@@ -17,7 +17,8 @@ The main goal is to inspire other teachers and share information about how to gi
     + [Javascript apis](#javascript-apis)
     + [JavaScript OOP: build a IMDB web scraper with real time code collaboration](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
     + [Javascript Promises: Learn how to use promises by cooking pasta 🍝](#javascript-promises-learn-how-to-use-promises-by-cooking-pasta)
-    + [React - drawing components](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
+    + [RobotApp](#robotapp)
+    + [React - drawing components](#react---drawing-components)
 
 # General Teaching Techniques
 
