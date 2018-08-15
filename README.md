@@ -20,7 +20,7 @@ The main goal is to inspire other teachers and share information about how to gi
     + [RobotApp](#robotapp)
     + [React - drawing components](#react---drawing-components)
  - Individual mentoring for struggling students:
-    [How to mentor a struggling student](https://github.com/HackYourFuture/teaching_tips_tricks)
+    + How to mentor a struggling student (work in progress)
 
 # General Teaching Techniques
 
