@@ -1,0 +1,101 @@
+# How to individually mentor a struggling student
+
+Context:
+
+Many of our students struggle during the JavaScript phase. If you want to mentor them on an individual basis, the folowing approach
+can help you mentor the student in a structured and efficient way. We've cut it up into 3 steps.
+
+##1.Asses
+
+The first step in making a plan for the students you are mentoring would be to assess the level of the student. 
+
+In assessing the skill level, we look for possession of the skillset taught in our curriculum, with as the most important skillset : fundamental knowledge of JavaScript. (and therewith fundamental knowledge of programming)
+
+The following general topics must be understood well with regard to JavaScript:
+
+Basics:
+
+⋅⋅*	Basic Data types [Strings, Numbers, Arrays, Booleans]
+⋅⋅* Operators
+⋅⋅*	Naming conventions
+⋅⋅* Conditions
+⋅⋅* Advanced data types [Objects]
+⋅⋅*	Statements vs Expressions
+⋅⋅* Loops (for/while)
+⋅⋅* Functions
+
+More advanced:
+
+⋅⋅*	Working with the debugger
+⋅⋅* Array Manipulations
+⋅⋅* Map and filter
+⋅⋅* Closures
+⋅⋅* Sound understanding of Scope
+⋅⋅* Callbacks
+⋅⋅* Events
+
+
+Advanced:
+
+⋅⋅* Understanding  of Codeflow
+⋅⋅* Async vs Sync
+⋅⋅* XHTTP requests
+⋅⋅* API calls
+⋅⋅* Rewrite data structures in Json
+⋅⋅* Promises
+
+
+The best way to asses these topics, is 
+
+1. for the students to write code (solving simple programming exercises)(
+2. have them explain their code 
+3. and for you to "checkmark" on the above topics of the curriculum one by one. (which one they know, and which they don't)
+
+We recommend having them write some basic codeassignment, like the ones mentioned below.
+
+Some examples of exercises, based per subject and difficulty. (feel free to add!)
+
+string manipulation: (simple)
+https://www.codewars.com/kata/remove-first-and-last-character/train/javascript
+https://www.codewars.com/kata/abbreviate-a-two-word-name
+
+
+Array manipulation:
+https://www.codewars.com/kata/square-n-sum 
+https://www.codewars.com/kata/sort-out-the-men-from-boys-1
+
+
+Other datatypes manipulation
+https://www.codewars.com/kata/tidy-number-special-numbers-series-number-9
+https://www.codewars.com/kata/password-check-binary-to-string
+
+Callbacks:
+
+https://www.codewars.com/kata/easy-mathematical-callback
+
+Objects:
+https://www.codewars.com/kata/coding-meetup-number-14-higher-order-functions-series-order-the-food/solutions/javascript
+
+
+##2. Address
+
+Make clear to the student what skills they currently are missing, and make plan of skills to address. Start explaining the most basic concepts, and gradually go to more difficult concepts (work down the checklist). 
+
+Per subject: 
+
+1.Try to explain them a concept VERY slowly, and very basic, together with concrete examples. Don’t assume they understand you, explain as much as you can about every step you do. If you notice they don’t understand other concepts, add them to the address list.
+2. ask them to explain the concept to you, correct them until they can explain it to you
+3. Have them solve problem(s) including this concept.(apply their knowledge)
+4. give feedback on solution
+5. Go to next concept
+
+##3. Coach
+
+The process of motivation is very important in programming, persistence really is key.
+In order to motivate people who have been struggling for a long time,and are not still booking results (often they are,but don’t see them), it’s good to give them a framework to see their learning curve. 
+
+I like using the analogy of driving a car. The first day you drive a car, you very consciously will press the clutch, turn the indicator light, and this requires your full attention, and sometimes you’ll fail doing these things. After you’ve driven for a while, you don’t  even think about these things anymore. The same goes for programming, you will just need to make those kilometres to get to the level where these concepts become second nature. Probably something will already go easily for the student, (making a loop, writing a simple function) that previously would cost a lot of energy, so that’s an example of a student already starting that process! 
+
+As long as the students sees this process, and will celebrate small wins learning programming concepts, this will keep the motivation up. Share the list of concepts that the students needs to master, and the big problem of “not knowing programming” will be cut in small problems, that they can tackle one by one. This makes the problem addressable, and will put less stress on the student. 
+
+
