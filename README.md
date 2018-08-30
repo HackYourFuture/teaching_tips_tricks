@@ -4,6 +4,7 @@ The main goal is to inspire other teachers and share information about how to gi
 ## Contents:
 - General Teaching Techniques
     - [Live Coding](#live-coding)
+    - [Let students create the schedule of the day](#let-students-create-the-schedule-of-the-day)
     - [Other Teaching Tools](#other-teaching-tools)
 - Energizers:
     + [Unique game](#any-module---energizer-unique-game-can-be-used-as-intro-getting-to-know-each-other)
@@ -31,6 +32,44 @@ A preferred teaching technique is Live coding and it involves walking through ea
 Particularly good for new students as it’s good to see in practice how the code is written and it takes away some of the "Code Scare" effect when writing code for the first time.
 
 This is really good when you involve the students in the process by acting as the “hands” and they are the “brain” telling you what to type. This reduces syntax errors when you want to move quickly and cover broad concepts in the lessons.
+
+#### Additional note 
+
+by [@mkruijt](https://github.com/mkruijt)
+
+Just like Chris I use a lot of live coding in my classes.
+I would try and keep this around 15-20 minutes and follow it up by actual coding.
+- You can ask students to implement the code you have written while live coding, in teams of two.
+- You can also do one of the below mentioned assignments like a presentation or the research exercises.
+
+I repeat the combination of live coding and practical coding throughout the entire class. 
+
+During the practical coding exercises I walk through the class. When students ask me questions I almost never give them the correct answer, I ask them a question back if they can explain to me what they are trying to solve. And let them google and find the answer themselves.
+
+During live coding I try and involve them in the code we are working on.
+- You can do this by asking students to explain certain concepts or parts of the code.
+- I also ask students to tell me exactly what to type. For example in HTML/CSS "what if I would like to have a list in my page, how would I do this?" I always follow exactly what they tell me, even if it is incorrect, I like that the rest of the class gets the opportunity to correct possible mistakes.
+
+> In general when live coding I (sometimes) on purpose make mistakes, I think it is a nice way to keep the group sharp. Also It's just really cool if you can correct your teacher right?!
+
+#### Let students create the schedule of the day
+
+by [@mkruijt](https://github.com/mkruijt)
+
+In JavaScript but also in other modules in general, sometimes it makes more sense to spend time on concepts that are unclear then simply just continue with other topics that are on the agenda.
+
+I like to include the group in what needs to be discussed on a given teaching day. This mostly results into covering some unclear concepts from previous weeks, but the class often also writes down topics of the current week.
+
+An exercises I sometimes start my class with:
+
+- Write down for yourself in 1 minute: What did you learn this week?
+  + Share with the group what you learned this week
+- Write down for yourself in 3 minutes: three questions you have from last week.
+- Write down for yourself in 3 minutes: three things, what would like to learn this week?
+
+Give them 10 min to write down what it is they would like to discuss in class today on a board, they have to do it together as a group.
+
+Give them one more chance, they get five more minutes to decide together which three topics they want to be discussed today. They also have to get out the duplicates from the board and prioritize on importance.
 
 ## Other Teaching Tools
 
@@ -204,13 +243,13 @@ If we do this synchronolously there is no chance of it becoming a good meal beca
 3. Write the actual code using promises. Add timeouts to each task (estimate how many minutes a task would take and then set the timeout to that many seconds so 8 minutes for cooking pasta would be 8 seconds in your programme)
 4. Can you get the code to work like you would cook pasta in the kitchen? Try using Promise.all if you want to wait for several tasks to finish.
 
-<!--- Here is my own attempt at completing the exercise. It's actually pretty tough to get the whole thing working with proises so maybe see how far students can get. https://codepen.io/Razpudding/pen/Keygge --->
+<!--- Here is my own attempt at completing the exercise. It's actually pretty tough to get the whole thing working with promises so maybe see how far students can get. https://codepen.io/Razpudding/pen/Keygge --->
 
 > Async await really helps simplify asynchronous (promisified) code. The previous example can be improved by applying it.
 
 5. Try rewriting your previous attempt using Async/Await. ⏰🍝⏰
 
-<!--- Here is my solution. It's a lot cleaner than the pomises version but could still use some work. Would also be nice if the changes were reflected in the DOM. https://codepen.io/Razpudding/pen/RJZeJO --->
+<!--- Here is my solution. It's a lot cleaner than the promises version but could still use some work. Would also be nice if the changes were reflected in the DOM. https://codepen.io/Razpudding/pen/RJZeJO --->
 
 ## RobotApp
 
