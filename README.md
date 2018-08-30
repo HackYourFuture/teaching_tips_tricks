@@ -19,8 +19,6 @@ The main goal is to inspire other teachers and share information about how to gi
     + [Javascript Promises: Learn how to use promises by cooking pasta 🍝](#javascript-promises-learn-how-to-use-promises-by-cooking-pasta)
     + [RobotApp](#robotapp)
     + [React - drawing components](#react---drawing-components)
- - Individual mentoring for struggling students:
-    + How to mentor a struggling student (work in progress)
 
 # General Teaching Techniques
 
