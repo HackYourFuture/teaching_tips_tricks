@@ -127,7 +127,7 @@ Everyone stands up. Everyone tells three things about him or herself. Two out of
 ## CLI - Game: I go on holiday and I take with me
 *By [@unmeshvrije](https://github.com/unmeshvrije)*
 
-"I go on holiday and I take with me" with CLI commands from the week before. They have to repeat the commands said before them. add a new command and explain what it does. let the round continue twice otherwise the students that went first don't have to repeat all the commands.
+"I go on holiday and I take with me" with CLI commands from the week before. They have to repeat the commands said before them. add a new command and explain what it does. let the round continue twice otherwise the students that went first don't have to repeat all the commands. E.g. First student says "ls : lists commands". Second student must say "ls and cd: change directory". Then third student must say "ls, cd and pwd : show present working directory" and so on.
 
 ## GIT - OS concepts and Live coding
 *By [@unmeshvrije](https://github.com/unmeshvrije)*
