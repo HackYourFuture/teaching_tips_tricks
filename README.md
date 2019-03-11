@@ -73,6 +73,16 @@ Give them one more chance, they get five more minutes to decide together which t
 
 ## Other Teaching Tools
 
+### PythonTutor for JavaScript
+
+[A visualization tool](http://www.pythontutor.com/javascript.html#) that helps you understand how JavaScript steps through your source code and manages program state behind the scenes.  Copy any snippet of synchronous JS code (just plain simple JS scripts, no dom or api calls) and study the visualization to learn how the JS thread works. PythonTutor has live chats and a beta collaborative coding feature.
+
+PythonTutor is a great complement to [latentflip's loupe](#Javascript-callstack-and-eventloop-visualisation): loupe visualizes everything that happens around the thread, and pytut visualises only what happens on the thread.
+
+### Live Dom Viewer
+
+Like PythonTutor and Loupe, but for the dom.  Copy-paste html into [this website](https://software.hixie.ch/utilities/js/live-dom-viewer/) and it will show you your code, a representation of the dom, and what is displayed in the browser.   It's like the devtools inspector but beginner-friendly.
+
 ### Presentations 
 
 by [@ChrisOwen101](https://github.com/ChrisOwen101)
@@ -107,15 +117,6 @@ Constructing a small task on CodePen and distributing to the students to complet
 
 See an example for While and For loops here: [CodePen Exercise](https://codepen.io/KPouianou/pen/VQLaVo?editors=0010)
 
-### PythonTutor for JavaScript
-
-[A visualization tool](http://www.pythontutor.com/javascript.html#) that helps you understand how JavaScript steps through your source code and manages program state behind the scenes.  Copy any snippet of synchronous JS code (just plain simple JS scripts, no dom or api calls) and study the visualization to learn how the JS thread works. 
-
-PythonTutor is a great complement to [latentflip's loupe](#Javascript-callstack-and-eventloop-visualisation): loupe visualizes everything that happens around the thread, and pytut visualises only what happens on the thread.
-
-### Live Dom Viewer
-
-Like PythonTutor and Loupe, but for the dom.  Copy-paste html into [this website](https://software.hixie.ch/utilities/js/live-dom-viewer/) and it will show you your code, a representation of the dom, and what is displayed in the browser.   It's like the devtools inspector but beginner-friendly.
 
 # Energizers:
 > the goal of energizers is to have a small break while seeing similarities between students. And have a quick laugh.
