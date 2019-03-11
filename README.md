@@ -75,7 +75,7 @@ Give them one more chance, they get five more minutes to decide together which t
 
 ### PythonTutor for JavaScript
 
-[A visualization tool](http://www.pythontutor.com/javascript.html#) that helps you understand how JavaScript steps through your source code and manages program state behind the scenes.  Copy any snippet of synchronous JS code (just plain simple JS scripts, no dom or api calls) and study the visualization to learn how the JS thread works. PythonTutor has live chats and a beta collaborative coding feature.  Here is a (work in progress) collection of curated js snippets](https://github.com/janke-learning/js-notional-machine/blob/master/javascript-in-order.md) for studying on pythontutor.
+[A visualization tool](http://www.pythontutor.com/javascript.html#) that helps you understand how JavaScript steps through your source code and manages program state behind the scenes.  Copy any snippet of synchronous JS code (just plain simple JS scripts, no dom or api calls) and study the visualization to learn how the JS thread works. PythonTutor has live chats and a beta collaborative coding feature.  Here is a (work in progress) [collection of curated js snippets](https://github.com/janke-learning/js-notional-machine/blob/master/javascript-in-order.md) for studying on pythontutor.
 
 PythonTutor is a great complement to [latentflip's loupe](#Javascript-callstack-and-eventloop-visualisation): loupe visualizes everything that happens around the thread, and pytut visualises only what happens on the thread.
 
@@ -83,7 +83,7 @@ PythonTutor is a great complement to [latentflip's loupe](#Javascript-callstack-
 
 These two sites dynamically create flow-charts for your code to help study or debug your code.  They don't allow you to step through the code or track what's happening in memory, but using these flow charts along-side pythontutor can be very helpful.  
 * [code2flow](https://code2flow.com) - this one allows you to share permalinks  
-* [bogdan-lyashenko](]https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/) - this one has cleaner diagrams  
+* [bogdan-lyashenko](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/) - this one has cleaner diagrams  
 They're both good, try them and decide for yourself.
 
 ### The Parsonizer
