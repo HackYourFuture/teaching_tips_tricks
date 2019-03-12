@@ -73,6 +73,30 @@ Give them one more chance, they get five more minutes to decide together which t
 
 ## Other Teaching Tools
 
+### PythonTutor for JavaScript
+
+[A visualization tool](http://www.pythontutor.com/javascript.html#) that helps you understand how JavaScript steps through your source code and manages program state behind the scenes.  Copy any snippet of synchronous JS code (just plain simple JS scripts, no dom or api calls) and study the visualization to learn how the JS thread works. PythonTutor has live chats and a beta collaborative coding feature.  Here is a (work in progress) [collection of curated js snippets](https://github.com/janke-learning/js-in-order) for studying on pythontutor.
+
+PythonTutor is a great complement to [latentflip's loupe](#Javascript-callstack-and-eventloop-visualisation): loupe visualizes everything that happens around the thread, and pytut visualises only what happens on the thread.
+
+### Control Flow visualization
+
+These two sites dynamically create flow-charts for your code to help study or debug your code.  They don't allow you to step through the code or track what's happening in memory, but using these flow charts along-side pythontutor can be very helpful.  
+* [code2flow](https://code2flow.com) - this one allows you to share permalinks  
+* [bogdan-lyashenko](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/) - this one has cleaner diagrams  
+They're both good, try them and decide for yourself.
+
+### The Parsonizer
+
+Turn any snippet of code into a [parsons problem](https://computinged.wordpress.com/2017/11/17/parsons-problems-have-same-learning-gains-as-writing-or-fixing-code-in-less-time-koli-calling-2017-preview/).  The parsonizer will mix up the lines of code you provide and ask you to drag them back into the correct order, it will give helpful feedback if you make a mistake. Parsonizing is a great way to learn the most from a single piece of code whether you're learning basic syntax or you're already studying advanced algorithms.
+* [the parsonizer](https://janke-learning.github.io/parsonizer/)
+
+
+### Live Dom Viewer
+
+Like PythonTutor and Loupe, but for the dom.  Copy-paste html into [this website](https://software.hixie.ch/utilities/js/live-dom-viewer/) and it will show you your code, a representation of the dom, and what is displayed in the browser.   It's like the devtools inspector but beginner-friendly.
+
+
 ### Presentations 
 
 by [@ChrisOwen101](https://github.com/ChrisOwen101)
@@ -106,6 +130,7 @@ By [@kostasx](https://github.com/kostasx) and [@KPouianou](https://github.com/KP
 Constructing a small task on CodePen and distributing to the students to complete during the lesson can be a good way to reinforce what the students have just learnt in a lecture.
 
 See an example for While and For loops here: [CodePen Exercise](https://codepen.io/KPouianou/pen/VQLaVo?editors=0010)
+
 
 # Energizers:
 > the goal of energizers is to have a small break while seeing similarities between students. And have a quick laugh.
