@@ -5,6 +5,7 @@ The main goal is to inspire other teachers and share information about how to gi
 - General Teaching Techniques
     - [Live Coding](#live-coding)
     - [Let students create the schedule of the day](#let-students-create-the-schedule-of-the-day)
+    - [Give broken applications](#give-broken-app)
     - [Other Teaching Tools](#other-teaching-tools)
 - Energizers:
     + [Unique game](#any-module---energizer-unique-game-can-be-used-as-intro-getting-to-know-each-other)
@@ -70,6 +71,19 @@ An exercises I sometimes start my class with:
 Give them 10 min to write down what it is they would like to discuss in class today on a board, they have to do it together as a group.
 
 Give them one more chance, they get five more minutes to decide together which three topics they want to be discussed today. They also have to get out the duplicates from the board and prioritize on importance.
+
+## Give broken applications
+
+by [@KevinTss](https://github.com/KevinTss)
+
+A good approach to make students more able to get programming concept is to make them just in the shit. Like just let them search and find a way to repair something.
+
+When I'm talking about `app` I'm talking about exercice, could be pure HTML, CSS, JavaScript or more...
+
+Good example of exercices :
+
+- Give a app with synthax errors (coma missing, case mistakes,...)
+- Give little script with logical errors (like mathematics, algorythme mistakes,...)
 
 ## Other Teaching Tools
 
