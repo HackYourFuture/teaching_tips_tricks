@@ -5,7 +5,7 @@ The main goal is to inspire other teachers and share information about how to gi
 - General Teaching Techniques
     - [Live Coding](#live-coding)
     - [Let students create the schedule of the day](#let-students-create-the-schedule-of-the-day)
-    - [Give broken applications](#give-broken-app)
+    - [Give broken applications](#give-them-broken-applications)
     - [Other Teaching Tools](#other-teaching-tools)
 - Energizers:
     + [Unique game](#any-module---energizer-unique-game-can-be-used-as-intro-getting-to-know-each-other)
@@ -72,7 +72,7 @@ Give them 10 min to write down what it is they would like to discuss in class to
 
 Give them one more chance, they get five more minutes to decide together which three topics they want to be discussed today. They also have to get out the duplicates from the board and prioritize on importance.
 
-## Give broken applications
+## Give them broken applications
 
 by [@KevinTss](https://github.com/KevinTss)
 
