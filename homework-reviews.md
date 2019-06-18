@@ -22,7 +22,7 @@ Then, for each PR, starting from the bottom (oldest PR) working up (newer PRs) I
 
    ```
    hackyourfuture/
-    class12/
+    class21/
       js2/
       js3/
          aalhommada/
