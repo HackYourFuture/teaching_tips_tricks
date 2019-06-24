@@ -83,7 +83,29 @@ When I'm talking about `app` I'm talking about exercice, could be pure HTML, CSS
 Good example of exercices :
 
 - Give a app with synthax errors (coma missing, case mistakes,...)
+  ``` javascript
+  // Synthax error (very simple)
+  /* 1 */
+  const firstname = "John";
+  const lastname = Doe";
+
+  /* 2 */
+  const sayWelcome = function {
+    console.log("Welcome guys!");
+  }
+  ```
+  Don't hesitate to give lot of exercice like that, because it's simple, students will be proud of themselves.  
+
 - Give little script with logical errors (like mathematics, algorithme mistakes,...)
+  ``` javascript
+  // Logical error (synthax validation or converstion needed)
+  const age = prompt("Enter you age");
+  if ((age * 2) > 36) {
+    console.log("Enjoy the website!");
+  } else {
+    alert("Sorry buddy, you're a bit young!");
+  }
+  ```
 
 ## Other Teaching Tools
 
