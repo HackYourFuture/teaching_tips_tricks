@@ -83,7 +83,7 @@ When I'm talking about `app` I'm talking about exercice, could be pure HTML, CSS
 Good example of exercices :
 
 - Give a app with synthax errors (coma missing, case mistakes,...)
-- Give little script with logical errors (like mathematics, algorythme mistakes,...)
+- Give little script with logical errors (like mathematics, algorithme mistakes,...)
 
 ## Other Teaching Tools
 
