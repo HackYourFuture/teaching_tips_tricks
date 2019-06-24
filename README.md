@@ -76,7 +76,7 @@ Give them one more chance, they get five more minutes to decide together which t
 
 by [@KevinTss](https://github.com/KevinTss)
 
-A good approach to make students more able to get programming concept is to make them just in the shit. Like just let them search and find a way to repair something.
+A good approach to make students more able to get programming concept is to let them have problems, be stuck and have to look for solution on internet. Like just let them search and find a way to repair something.
 
 When I'm talking about `app` I'm talking about exercice, could be pure HTML, CSS, JavaScript or more...
 
