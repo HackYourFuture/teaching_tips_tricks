@@ -15,7 +15,7 @@ The main goal is to inspire other teachers and share information about how to gi
     + [GIT - OS concepts and Live coding](#git---os-concepts-and-live-coding)
     + [Javascript array remembering trick](#javascript-array-remembering-trick)
     + [JavaScript: `map` `filter` `=>`](#javascript-map-filter-)
-    + [Javascript callstack and eventloop visualisation](#javascript-callstack-and-eventloop-visualisation)
+    + [Javascript call-stack and event-loop visualisation](#javascript-callstack-and-eventloop-visualisation)
     + [Javascript apis](#javascript-apis)
     + [JavaScript OOP: build a IMDB web scraper with real time code collaboration](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
     + [Javascript Promises: Learn how to use promises by cooking pasta 🍝](#javascript-promises-learn-how-to-use-promises-by-cooking-pasta)
@@ -78,13 +78,13 @@ by [@KevinTss](https://github.com/KevinTss)
 
 A good approach to make students more able to get programming concept is to let them have problems, be stuck and have to look for solution on internet. Like just let them search and find a way to repair something.
 
-When I'm talking about `app` I'm talking about exercice, could be pure HTML, CSS, JavaScript or more...
+When I'm talking about `app` I'm talking about exercises, could be pure HTML, CSS, JavaScript or more...
 
-Good example of exercices :
+Good example of exercises :
 
-- Give a app with synthax errors (coma missing, case mistakes,...)
+- Give a app with syntax errors (coma missing, case mistakes,...)
   ``` javascript
-  // Synthax error (very simple)
+  // Syntax error (very simple)
   /* 1 */
   const firstname = "John";
   const lastname = Doe";
@@ -94,11 +94,11 @@ Good example of exercices :
     console.log("Welcome guys!");
   }
   ```
-  Don't hesitate to give lot of exercices like that, because it's simple, students will be proud of themselves.  
+  Don't hesitate to give lot of exercises like that, because it's simple, students will be proud of themselves.  
 
 - Give little script with logical errors (like mathematics, algorithmic mistakes,...)
   ``` javascript
-  // Logical error (synthax validation or conversion needed)
+  // Logical error (syntax validation or conversion needed)
   const age = prompt("Enter you age");
   if ((age * 2) > 36) {
     console.log("Enjoy the website!");
@@ -213,6 +213,18 @@ E.g., first student says _"ls : lists commands"_. Second student must say _"ls a
 
 Pop, push, unshift and shift which does what. Well the longest of the word pairs (pop, push) (shift, unshift) makes the array longer, really easy to remember that way.
 
+## GIT - OS concepts and Live coding
+*By [@unmeshvrije](https://github.com/unmeshvrije)*
+
+* The teacher should explain the file system if they have no idea about it.
+* Students often get warning about new lines (CR and LF characters) because they create UNIX-like files on their Windows machines. In this case, teacher should explain the different between interpretation of new lines in UNIX and Windows.
+* To keep the students' attention, create files with funny names and ask students for the contents of files and commit messages.
+* For lesson 1, every student along with the teacher, creates a repository **MyFirst** in his/her GitHub accounts.
+Together, they create an SSH key, configure email and username.
+It is important to make sure **at every step** that no student is lagging behind. It is easy to lose motivation for a student who is lagging behind the class.
+* For lesson 2, following online tool is very helpful: http://git-school.github.io/visualizing-git/
+* For lesson 3, students often clone the repository of teacher. Teachers should stress that they should clone the repository which they forked.
+
 ## JavaScript: `map` `filter` `=>`
 *By [@joostlubach](https://github.com/joostlubach)* 
 
@@ -244,7 +256,7 @@ All students write a little JSON-object for themselves. for example:
 
 [http://latentflip.com/loupe/](http://latentflip.com/loupe/) is the perfect tool for visualizing the call stack and event loop. You can as of right now only write es5 javascript, but apart from that there is no limit. 
 
-you can build a small webapp. where they can send in the JSON. you can download all objects as an array. and than you can procces the array with `map`and `filter`. First you can filter out the invalid input, for example people who have put their age in a string, or people who have only filled in one town.
+you can build a small webapp. where they can send in the JSON. you can download all objects as an array. and than you can process the array with `map`and `filter`. First you can filter out the invalid input, for example people who have put their age in a string, or people who have only filled in one town.
 
 ## Javascript apis
 *By [@benna100](https://github.com/benna100)* 
@@ -294,7 +306,7 @@ const Ocean11 = new Movie('Ocean11', [Clooney])
 
 > Async can be hard to understand without real live example. Cooking is a great example of mixed synchronous and asynchronous tasks. In this assignment we'll cook pasta with promises 💍
 
-Let's say we want a programme to cook some pasta. Some of the steps involved in cooking pasta are:
+Let's say we want a program to cook some pasta. Some of the steps involved in cooking pasta are:
 1. Gathering the ingredients (pasta, garlic, tomatoes, sage, butter)
 2. Cutting the garlic
 3. Cutting the tomatoes
@@ -304,10 +316,10 @@ Let's say we want a programme to cook some pasta. Some of the steps involved in 
 7. Baking the tomatoes
 X. Mixing the pasta with sauce
 
-If we do this synchronolously there is no chance of it becoming a good meal because the pasta would be cold by the time the vegetables are ready. It would also take way too long this way. So let's fix that!
+If we do this synchronously there is no chance of it becoming a good meal because the pasta would be cold by the time the vegetables are ready. It would also take way too long this way. So let's fix that!
 1. Think about how to do this asynchronously; which tasks could be run at the same time? What steps should wait for what other steps? Try to write down a basic recipe (don't write any code yet!)
-2. Now convert your recipe to pseudocode (in markdown). The point is to name functions and show which functions call which other functions. The logic should be there but we'll write the code in the next step.
-3. Write the actual code using promises. Add timeouts to each task (estimate how many minutes a task would take and then set the timeout to that many seconds so 8 minutes for cooking pasta would be 8 seconds in your programme)
+2. Now convert your recipe to pseudo-code (in markdown). The point is to name functions and show which functions call which other functions. The logic should be there but we'll write the code in the next step.
+3. Write the actual code using promises. Add timeouts to each task (estimate how many minutes a task would take and then set the timeout to that many seconds so 8 minutes for cooking pasta would be 8 seconds in your program)
 4. Can you get the code to work like you would cook pasta in the kitchen? Try using Promise.all if you want to wait for several tasks to finish.
 
 <!--- Here is my own attempt at completing the exercise. It's actually pretty tough to get the whole thing working with promises so maybe see how far students can get. https://codepen.io/Razpudding/pen/Keygge --->
@@ -331,4 +343,4 @@ This project was originally intended for use throughout the JavaScript 1, 2 and 
 ## React - drawing components
 *By [@joostlubach](https://github.com/joostlubach) and [@spirosikmd](https://github.com/spirosikmd)* 
 
-Draw a sketch of the final app on the flipover, and then students took turns in taking a colour pen drawing boxes around what they considered a component. When we were done with that, we draw a component tree hierarchy. This helped a lot when explaining the input (props) and output (prop handlers) of each component with arrows. Also helped a lot with explaining the data flow between components. What we found handy is that one of us was working with the computer, writing code, explaining the concepts by building an example app, while the other was drawing on the flipover explaining mostly the design decisions we made during the class.
+Draw a sketch of the final app on the flip over, and then students took turns in taking a colour pen drawing boxes around what they considered a component. When we were done with that, we draw a component tree hierarchy. This helped a lot when explaining the input (props) and output (prop handlers) of each component with arrows. Also helped a lot with explaining the data flow between components. What we found handy is that one of us was working with the computer, writing code, explaining the concepts by building an example app, while the other was drawing on the flip over explaining mostly the design decisions we made during the class.
