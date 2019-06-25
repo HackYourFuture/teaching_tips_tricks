@@ -15,7 +15,7 @@ The main goal is to inspire other teachers and share information about how to gi
     + [GIT - OS concepts and Live coding](#git---os-concepts-and-live-coding)
     + [Javascript array remembering trick](#javascript-array-remembering-trick)
     + [JavaScript: `map` `filter` `=>`](#javascript-map-filter-)
-    + [Javascript callstack and eventloop visualisation](#javascript-callstack-and-eventloop-visualisation)
+    + [Javascript call-stack and event-loop visualisation](#javascript-callstack-and-eventloop-visualisation)
     + [Javascript apis](#javascript-apis)
     + [JavaScript OOP: build a IMDB web scraper with real time code collaboration](#javascript-oop-build-a-imdb-web-scraper-with-real-time-code-collaboration)
     + [Javascript Promises: Learn how to use promises by cooking pasta 🍝](#javascript-promises-learn-how-to-use-promises-by-cooking-pasta)
