@@ -5,6 +5,7 @@ The main goal is to inspire other teachers and share information about how to gi
 - General Teaching Techniques
     - [Live Coding](#live-coding)
     - [Let students create the schedule of the day](#let-students-create-the-schedule-of-the-day)
+    - [Give broken applications](#give-them-broken-applications)
     - [Other Teaching Tools](#other-teaching-tools)
 - Energizers:
     + [Unique game](#any-module---energizer-unique-game-can-be-used-as-intro-getting-to-know-each-other)
@@ -70,6 +71,41 @@ An exercises I sometimes start my class with:
 Give them 10 min to write down what it is they would like to discuss in class today on a board, they have to do it together as a group.
 
 Give them one more chance, they get five more minutes to decide together which three topics they want to be discussed today. They also have to get out the duplicates from the board and prioritize on importance.
+
+## Give them broken applications
+
+by [@KevinTss](https://github.com/KevinTss)
+
+A good approach to make students more able to get programming concept is to let them have problems, be stuck and have to look for solution on internet. Like just let them search and find a way to repair something.
+
+When I'm talking about `app` I'm talking about exercice, could be pure HTML, CSS, JavaScript or more...
+
+Good example of exercices :
+
+- Give a app with synthax errors (coma missing, case mistakes,...)
+  ``` javascript
+  // Synthax error (very simple)
+  /* 1 */
+  const firstname = "John";
+  const lastname = Doe";
+
+  /* 2 */
+  const sayWelcome = function {
+    console.log("Welcome guys!");
+  }
+  ```
+  Don't hesitate to give lot of exercices like that, because it's simple, students will be proud of themselves.  
+
+- Give little script with logical errors (like mathematics, algorithmic mistakes,...)
+  ``` javascript
+  // Logical error (synthax validation or conversion needed)
+  const age = prompt("Enter you age");
+  if ((age * 2) > 36) {
+    console.log("Enjoy the website!");
+  } else {
+    alert("Sorry buddy, you're a bit young!");
+  }
+  ```
 
 ## Other Teaching Tools
 
