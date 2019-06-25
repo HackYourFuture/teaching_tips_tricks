@@ -94,11 +94,11 @@ Good example of exercices :
     console.log("Welcome guys!");
   }
   ```
-  Don't hesitate to give lot of exercice like that, because it's simple, students will be proud of themselves.  
+  Don't hesitate to give lot of exercices like that, because it's simple, students will be proud of themselves.  
 
-- Give little script with logical errors (like mathematics, algorithme mistakes,...)
+- Give little script with logical errors (like mathematics, algorithmic mistakes,...)
   ``` javascript
-  // Logical error (synthax validation or converstion needed)
+  // Logical error (synthax validation or conversion needed)
   const age = prompt("Enter you age");
   if ((age * 2) > 36) {
     console.log("Enjoy the website!");
