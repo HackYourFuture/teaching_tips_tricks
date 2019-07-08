@@ -9,6 +9,7 @@ The main goal is to inspire other teachers and share information about how to gi
   - [Let students create the schedule of the day](#let-students-create-the-schedule-of-the-day)
   - [Give broken applications](#give-them-broken-applications)
   - [Other Teaching Tools](#other-teaching-tools)
+  - [Homework Reviews](#homework-reviews)
 - Energizers:
   - [Unique game](#any-module---energizer-unique-game-can-be-used-as-intro-getting-to-know-each-other)
   - [One lie two truths](#any-module---energizer-one-lie-two-truths-can-be-used-as-intro-getting-to-know-each-other)
@@ -172,6 +173,14 @@ By [@kostasx](https://github.com/kostasx) and [@KPouianou](https://github.com/KP
 Constructing a small task on CodePen and distributing to the students to complete during the lesson can be a good way to reinforce what the students have just learnt in a lecture.
 
 See an example for While and For loops here: [CodePen Exercise](https://codepen.io/KPouianou/pen/VQLaVo?editors=0010)
+
+## Homework Reviews
+
+_By [@remarcmij](https://github.com/remarcmij)_
+
+This write-up documents the homework review workflow that I (Jim Cramer, @remarcmij) use when reviewing homework submitted as GitHub pull requests for the JavaScript 2 and 3 modules.
+
+...continue reading [here](./homework-reviews.md).
 
 # Energizers:
 
@@ -350,11 +359,3 @@ This project was originally intended for use throughout the JavaScript 1, 2 and 
 _By [@joostlubach](https://github.com/joostlubach) and [@spirosikmd](https://github.com/spirosikmd)_
 
 Draw a sketch of the final app on the flipover, and then students took turns in taking a colour pen drawing boxes around what they considered a component. When we were done with that, we draw a component tree hierarchy. This helped a lot when explaining the input (props) and output (prop handlers) of each component with arrows. Also helped a lot with explaining the data flow between components. What we found handy is that one of us was working with the computer, writing code, explaining the concepts by building an example app, while the other was drawing on the flipover explaining mostly the design decisions we made during the class.
-
-## Homework Reviews
-
-_By [@remarcmij](https://github.com/remarcmij)_
-
-This write-up documents the homework review workflow that I (Jim Cramer, @remarcmij) use when reviewing homework submitted as GitHub pull requests for the JavaScript 2 and 3 modules.
-
-...continue reading [here](./homework-reviews.md).
