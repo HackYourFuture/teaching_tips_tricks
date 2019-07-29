@@ -212,7 +212,7 @@ _"I go on holiday and I take with me"_ with CLI commands from the week before:
 - Add a new command and explain what it does.
 - Let the round continue twice otherwise the students that went first don't have to repeat all the commands.
 
-E.g., first student says _"ls : lists commands"_. Second student must say _"ls and cd: change directory"_. Then third student must say _"ls, cd and pwd : show present working directory"_ and so on.
+E.g., first student says _"ls : lists commands"_. Second student must say _"ls and cd: change directory"_. Then third student must say _"ls, cd and pwd : show print working directory"_ and so on.
 
 ## GIT - OS concepts and Live coding
 
