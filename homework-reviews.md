@@ -4,13 +4,9 @@ This write-up documents the homework review workflow that I use when reviewing h
 
 > Recently, I have started to use the VSCode **GitHub Pull Request** extension to streamline the review workflow. With this extension you can quickly check out pull requests without having to individually clone and `npm install` each student's repository.
 
-When I'm assigned to teach a module I set myself up to **Watch** ('Be notified of all conversations') the corresponding repository on the HYF GitHub organization account, so I get notified when Pull Requests come in and again when they are updated. (I generally **Unwatch** when done teaching.)
-
-If there are still pull requests from a preceding class I close them so we can start with a blank slate.
+When I'm assigned to teach a module I set myself up to **Watch** ('Be notified of all conversations') the corresponding repository on the HackYourHomework GitHub organization account, so I get notified when Pull Requests come in and again when they are updated. (I generally **Unwatch** when done teaching.)
 
 When a new pull request comes in, then, if not done already, I add the GitHub label `homeworkN` (where `N` is 1, 2 or 3) and the label `to review` to the pull request.
-
-I generally start my reviews on the Friday (in the JS modules we have set the deadline for the pull request on Thursday evening, although only a portion of the students will meet that deadline). I continue the reviews on Saturday, but anything coming in on a Saturday night or Sunday morning will not get a timely review.
 
 I start by opening my local (cloned) version of the module's HYF repository, say **JavaScript3** in VSCode (make sure that you run `npm install` after cloning).
 
