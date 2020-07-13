@@ -53,3 +53,6 @@ Then, for each pull request, starting from the bottom (oldest pull request) work
 12. When done I select **Review changes** in the pull request, add an overall assessment in the comment box and either **Approve** or **Request changes**.
 
 13. Finally, I remove the label `review in progress` and either add the label `reviewed` in case the pull request was approved, or `needs work` if I requested changes.
+
+14. After the student implement the requested changes I check their improvements to see if I can approve the homework.\
+
