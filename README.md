@@ -37,6 +37,8 @@ Particularly good for new students as it’s good to see in practice how the cod
 
 This is really good when you involve the students in the process by acting as the “hands” and they are the “brain” telling you what to type. This reduces syntax errors when you want to move quickly and cover broad concepts in the lessons.
 
+> an experimental tool for live code-alongs ([right here](https://janke-learning.org/code-along/)) meant for using with the browser console.  Allows you to save snippets and notes, download study sessions, and share permalinks to initial code. 
+
 #### Additional note
 
 by [@mkruijt](https://github.com/mkruijt)
